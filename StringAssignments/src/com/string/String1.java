@@ -8,7 +8,7 @@ public class String1 {
 		Scanner s=new Scanner(System.in);
 		System.out.println("Enter the any String: ");
 		String s1=s.next();
-		System.out.println("String entered by user is: "+s1);
+		System.out.println("String enter by user is : "+s1);
 		
 
 	}
